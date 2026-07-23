@@ -15,4 +15,4 @@ dataset = [
     {"id": 3, "name": "Carol", "age": 28}
 ]
 
-save_dataset_to_file(dataset, "dataset.json")
+save_dataset_to_file(dataset, "data/dataset.json")
