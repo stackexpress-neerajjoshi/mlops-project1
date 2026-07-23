@@ -12,7 +12,8 @@ def save_dataset_to_file(dataset, file_path):
 dataset = [
     {"id": 1, "name": "Alice", "age": 30},
     {"id": 2, "name": "Bob", "age": 25},
-    {"id": 3, "name": "Carol", "age": 28}
+    {"id": 3, "name": "Carol", "age": 28},
+    {"id": 4, "name": "David", "age": 35}
 ]
 
 save_dataset_to_file(dataset, "data/dataset.json")
