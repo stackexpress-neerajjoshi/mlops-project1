@@ -17,7 +17,9 @@ dataset = [
     {"id": 5, "name": "Eve", "age": 22},
     {"id": 6, "name": "Frank", "age": 40},
     {"id": 7, "name": "Grace", "age": 27},
-    {"id": 8, "name": "Henry", "age": 33}
+    {"id": 8, "name": "Henry", "age": 33},
+    {"id": 9, "name": "Ivy", "age": 29},
+    {"id": 10, "name": "Jack", "age": 31}
 ]
 
 save_dataset_to_file(dataset, "data/dataset.json")
